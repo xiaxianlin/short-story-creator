@@ -45,9 +45,10 @@ description: 短篇小说创作工作流，逐步引导用户完成10,000-50,000
 - `《小说名称》.md` - 完整正文
 - `设定集.md` - 背景和角色设定
 
-## 创作规范
+## 参考文档
 
-详见 [references/quality-standards.md](references/quality-standards.md)
+- **创作规范**：[quality-standards.md](references/quality-standards.md)
+- **小说模板**：[novel-template.md](references/novel-template.md)
 
 ## 快捷命令
 
