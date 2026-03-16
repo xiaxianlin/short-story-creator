@@ -56,6 +56,7 @@ description: 短篇小说创作工作流，逐步引导用户完成10,000-50,000
 ## 参考文档
 
 - **创作规范**：[quality-standards.md](references/quality-standards.md)
+- **反 AI 味规则**：[anti-ai-writing-rules.md](../anti-ai-writing/references/anti-ai-writing-rules.md)
 - **小说模板**：[novel-template.md](references/novel-template.md)
 - **番茄指南**：[fanqie-guide.md](references/fanqie-guide.md) - 番茄短故事平台创作标准（黄金三章、一章三钩、听书适配、三大主流类型）
 - **盐选指南**：[yanxuan-guide.md](references/yanxuan-guide.md) - 知乎盐选平台创作标准（结构指标、类型文指南、情绪调动技巧）
@@ -86,4 +87,5 @@ description: 短篇小说创作工作流，逐步引导用户完成10,000-50,000
 - 后续步骤需参考之前所有设定，保持一致性
 - 用户可随时要求修改之前的设定
 - 根据用户反馈灵活调整生成内容
+- 生成正文前，优先检查 [anti-ai-writing-rules.md](../anti-ai-writing/references/anti-ai-writing-rules.md)，避免模板化句式、空抒情和过度解释
 - 选择番茄短故事时，优先读取 [fanqie-guide.md](references/fanqie-guide.md) 并执行黄金三章、一章三钩、听书适配规则
